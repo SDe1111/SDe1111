@@ -5,6 +5,26 @@
   data-size="large">
 Follow @SalDev1111</a>
 
+  ## 🛠️ Favorite
+
+### 🧰 Languages, Help, Frameworks libraries, Databases, Cloud hosting, IDEs and Software.
+
+<p>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="edX" src="https://img.shields.io/badge/edX-02262B.svg?logo=edX&logoColor=white"></a>
+    <a href="#"><img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+</p>
+
 I am currently exploring various technologies, including C++, HTML5, CSS, JavaScript, and Python, as I pursue my degree in Computer Science at California State University Fullerton.
 
 I am determined to gain the knowledge and skills necessary to excel in the field. I see the constant evolution of technology as a challenge that I am eager to tackle, and I am excited to discover new ways to use it to solve real-world problems.
@@ -53,7 +73,6 @@ Please feel free to contact me if you have any opportunities or if you just want
 <h2 align="center">🤝 Support</h2>
 
 
-<p align="center">💙 If you like my work give it a ⭐ and Share it with friends!</p>
 <p align="center">💰 Donations </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -64,22 +83,4 @@ Please feel free to contact me if you have any opportunities or if you just want
     width="120">
 
   
-  ## 🛠️ My additional tools [beginner]
 
-### 🧰 Languages, Help, Frameworks libraries, Databases, Cloud hosting, IDEs and Software.
-
-<p>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="edX" src="https://img.shields.io/badge/edX-02262B.svg?logo=edX&logoColor=white"></a>
-    <a href="#"><img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-</p>
