@@ -1,7 +1,4 @@
 
-<!--
-**SDe1111/SDe1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 Hello! I’m @Sa1D1111(Sal) Welcome to my Github page.
 - 🏃 <a class="twitter-follow-button"
   href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSalDev1111&screen_name=SalDev1111"
