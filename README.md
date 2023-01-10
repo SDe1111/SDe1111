@@ -5,7 +5,6 @@
   data-size="large">
 Follow @SalDev1111</a>
 
-- 👀 I’m interested in everything code. Just getting started it feels.
 - 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript, and Python. Student at CSU Fullerton for Computer Science.
 
 🔌 Connect with me 🔌
