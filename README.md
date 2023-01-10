@@ -5,7 +5,17 @@
   data-size="large">
 Follow @SalDev1111</a>
 
-- 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript, and Python. Student at CSU Fullerton for Computer Science.
+I am currently exploring various technologies, including C++, HTML5, CSS, JavaScript, and Python, as I pursue my degree in Computer Science at California State University Fullerton.
+
+I am determined to gain the knowledge and skills necessary to excel in the field. I see the constant evolution of technology as a challenge that I am eager to tackle, and I am excited to discover new ways to use it to solve real-world problems.
+
+I believe that continuing to learn and improve my skills is essential for success in this field, and I am dedicated to staying up-to-date with the latest developments and trends in technology.
+
+As a student, I am always looking for opportunities to apply my knowledge and skills in a practical setting. I am open to collaborate on projects, work on personal projects and Internships.
+
+Please feel free to contact me if you have any opportunities or if you just want to chat about technology!
+
+🌱 Thank you for visiting my profile!
 
 🔌 Connect with me 🔌
 
