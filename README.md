@@ -6,7 +6,7 @@
 Follow @SalDev1111</a>
 
 - 👀 I’m interested in everything code. Just getting started it feels.
-- 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript, and Python. I'm preparing myself for a bootcamp in the near future after getting my CS degree
+- 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript, and Python. Student at CSU Fullerton for Computer Science.
 
 🔌 Connect with me 🔌
 
